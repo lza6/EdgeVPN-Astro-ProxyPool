@@ -1,0 +1,56 @@
+[
+ {
+  "tag": "Amsterdam II",
+  "server": "108.181.122.170",
+  "success": "0/6",
+  "rate": 0,
+  "rtt_min": null,
+  "rtt_avg": null,
+  "rtt_max": null
+ },
+ {
+  "tag": "Ashburn II",
+  "server": "108.181.133.138",
+  "success": "1/6",
+  "rate": 17,
+  "rtt_min": 2718,
+  "rtt_avg": 2718,
+  "rtt_max": 2718
+ },
+ {
+  "tag": "Barcelona II",
+  "server": "108.181.121.178",
+  "success": "4/6",
+  "rate": 67,
+  "rtt_min": 1407,
+  "rtt_avg": 3557,
+  "rtt_max": 7354
+ },
+ {
+  "tag": "Dallas II",
+  "server": "108.181.88.2",
+  "success": "2/6",
+  "rate": 33,
+  "rtt_min": 3707,
+  "rtt_avg": 4788,
+  "rtt_max": 5870
+ },
+ {
+  "tag": "Los Angeles II",
+  "server": "108.181.9.202",
+  "success": "6/6",
+  "rate": 100,
+  "rtt_min": 186,
+  "rtt_avg": 198,
+  "rtt_max": 206
+ },
+ {
+  "tag": "Montreal II",
+  "server": "134.195.198.163",
+  "success": "6/6",
+  "rate": 100,
+  "rtt_min": 256,
+  "rtt_avg": 646,
+  "rtt_max": 1551
+ }
+]

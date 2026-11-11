@@ -1,0 +1,62 @@
+[
+ {
+  "tag": "Amsterdam II",
+  "server": "108.181.122.170",
+  "lat_ok": "4/5",
+  "rtt_min": 1380,
+  "rtt_max": 1594,
+  "mbps": 0,
+  "burst": "4/6",
+  "burst_ms": 5002
+ },
+ {
+  "tag": "Ashburn II",
+  "server": "108.181.133.138",
+  "lat_ok": "1/5",
+  "rtt_min": 539,
+  "rtt_max": 539,
+  "mbps": 0,
+  "burst": "3/6",
+  "burst_ms": 13297
+ },
+ {
+  "tag": "Barcelona II",
+  "server": "108.181.121.178",
+  "lat_ok": "3/5",
+  "rtt_min": 1619,
+  "rtt_max": 7874,
+  "mbps": 0,
+  "burst": "3/6",
+  "burst_ms": 11326
+ },
+ {
+  "tag": "Dallas II",
+  "server": "108.181.88.2",
+  "lat_ok": "3/5",
+  "rtt_min": 485,
+  "rtt_max": 5732,
+  "mbps": 0,
+  "burst": "3/6",
+  "burst_ms": 11270
+ },
+ {
+  "tag": "Los Angeles II",
+  "server": "108.181.9.202",
+  "lat_ok": "5/5",
+  "rtt_min": 403,
+  "rtt_max": 2418,
+  "mbps": 0.19,
+  "burst": "6/6",
+  "burst_ms": 397
+ },
+ {
+  "tag": "Montreal II",
+  "server": "134.195.198.163",
+  "lat_ok": "5/5",
+  "rtt_min": 526,
+  "rtt_max": 1894,
+  "mbps": 0.21,
+  "burst": "6/6",
+  "burst_ms": 1915
+ }
+]

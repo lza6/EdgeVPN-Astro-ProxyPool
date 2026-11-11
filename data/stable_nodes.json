@@ -1,0 +1,20 @@
+[
+ {
+  "type": "ss",
+  "tag": "Los Angeles II",
+  "server": "108.181.9.202",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "G5p6ww4o67HB",
+  "live": true
+ },
+ {
+  "type": "ss",
+  "tag": "Montreal II",
+  "server": "134.195.198.163",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "PmCqK98WqhSC",
+  "live": true
+ }
+]
